@@ -327,3 +327,6 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,softorino.com
+
+#customer
+DOMAIN-SUFFIX,fontawesome.com
