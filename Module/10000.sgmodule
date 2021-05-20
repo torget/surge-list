@@ -1,0 +1,10 @@
+#!name=中国电信
+#!desc=中国电信余额监控
+#!system=ios
+
+[Script]
+中国电信_获取cookie = type=http-request,pattern=^https?:\/\/e\.189\.cn\/store\/user\/balance_new\.do,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/10000.cookie.js
+中国电信_余额监控 = type=cron,cronexp=10 0 * * *,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/10000.js,wake-system=true
+
+[MITM]
+hostname = %APPEND% e.189.cn
