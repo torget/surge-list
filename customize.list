@@ -1,5 +1,65 @@
-#customer
+# customize
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,linode.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,xoton.io
+DOMAIN-SUFFIX,fork.dev
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,dompdf.net
+DOMAIN-SUFFIX,corntab.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,peing.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,tableplus.com
+DOMAIN-SUFFIX,charliemonroesoftware.com
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,weebly.com
+DOMAIN-SUFFIX,editmysite.com
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.pubnub.com
+DOMAIN-SUFFIX,maintenance.joinclubhouse.com
+DOMAIN-SUFFIX,ap3.agora.io
+DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,f3b.work
+# KEYWORD
+DOMAIN-KEYWORD,rhinoshield
+DOMAIN-KEYWORD,hardlightgames
+DOMAIN-KEYWORD,okex
+DOMAIN-KEYWORD,greatfire
+DOMAIN-KEYWORD,datarelay
+DOMAIN-KEYWORD,boslife
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-KEYWORD,beargogogo
+DOMAIN-KEYWORD,ark
+DOMAIN-KEYWORD,blinkload
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,huobi
+DOMAIN-KEYWORD,tempestapp
+DOMAIN-KEYWORD,urbanarmorgear
 DOMAIN-KEYWORD,amcharts
 DOMAIN-KEYWORD,onerelay
+# Client
+PROCESS-NAME,Castro
+PROCESS-NAME,Backup and Sync
+PROCESS-NAME,Day One
+PROCESS-NAME,Dropbox
+PROCESS-NAME,node-webkit
+PROCESS-NAME,Speedtest
+PROCESS-NAME,Spotify
+PROCESS-NAME,Telegram
+PROCESS-NAME,Tweetbot
+PROCESS-NAME,Twitter
+PROCESS-NAME,Coinbase
+PROCESS-NAME,OKEx
+PROCESS-NAME,Clubhouse
+PROCESS-NAME,HuoChat
+# UA
+USER-AGENT,*Telegram*
+USER-AGENT,Instagram*
+USER-AGENT,Clubhouse*
