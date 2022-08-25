@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,ap3.agora.io
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,f3b.work
+DOMAIN-SUFFIX,ark.to
 # KEYWORD
 DOMAIN-KEYWORD,rhinoshield
 DOMAIN-KEYWORD,hardlightgames
@@ -36,7 +37,6 @@ DOMAIN-KEYWORD,datarelay
 DOMAIN-KEYWORD,boslife
 DOMAIN-KEYWORD,jetbrains
 DOMAIN-KEYWORD,beargogogo
-DOMAIN-KEYWORD,ark
 DOMAIN-KEYWORD,blinkload
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,huobi
