@@ -60,5 +60,4 @@ PROCESS-NAME,Clubhouse
 PROCESS-NAME,HuoChat
 # UA
 USER-AGENT,*Telegram*
-USER-AGENT,Instagram*
 USER-AGENT,Clubhouse*
